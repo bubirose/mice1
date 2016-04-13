@@ -22,6 +22,6 @@ void MainWindow::on_dugme2_clicked()
 
 void MainWindow::on_dugme1_clicked()
 {
-    ui->dugme1->setStatus('b');
+    ui->dugme1->postaviStatus('b');
     ui->dugme1->drugo(*(ui->dugme2));
 }

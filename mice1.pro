@@ -17,12 +17,16 @@ SOURCES += main.cpp\
     tabla.cpp \
     polje.cpp \
     partija.cpp \
-    igrac.cpp
+    igrac.cpp \
+    potez.cpp \
+    figura.cpp
 
 HEADERS  += mainwindow.h \
     tabla.h \
     polje.h \
     partija.h \
-    igrac.h
+    igrac.h \
+    potez.h \
+    figura.h
 
 FORMS    += mainwindow.ui

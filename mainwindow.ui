@@ -17,8 +17,8 @@
    <widget class="Polje" name="dugme1">
     <property name="geometry">
      <rect>
-      <x>190</x>
-      <y>80</y>
+      <x>560</x>
+      <y>10</y>
       <width>99</width>
       <height>27</height>
      </rect>
@@ -30,8 +30,8 @@
    <widget class="Polje" name="dugme2">
     <property name="geometry">
      <rect>
-      <x>410</x>
-      <y>80</y>
+      <x>560</x>
+      <y>40</y>
       <width>99</width>
       <height>27</height>
      </rect>

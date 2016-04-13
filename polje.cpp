@@ -7,7 +7,7 @@ Polje::Polje(QWidget* d)
     :QPushButton(d)
 {
 }
-void Polje::setStatus(char c)
+void Polje::postaviStatus(char c)
 {
     this->_status = c;
     QString ime(c);
