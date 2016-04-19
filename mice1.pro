@@ -27,6 +27,10 @@ HEADERS  += mainwindow.h \
     partija.h \
     igrac.h \
     potez.h \
-    figura.h
+    figura.h \
+    projectHeader.h
 
 FORMS    += mainwindow.ui
+
+RESOURCES += \
+    slike.qrc

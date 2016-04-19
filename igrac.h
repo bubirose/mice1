@@ -1,5 +1,6 @@
 #ifndef IGRAC_H
 #define IGRAC_H
+
 #include "tabla.h"
 #include "polje.h"
 #include<set>

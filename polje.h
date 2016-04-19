@@ -1,17 +1,14 @@
 #ifndef POLJE_H
 #define POLJE_H
-#include <QPushButton>
 
 #define BELO 'b'
 #define CRNO 'c'
 #define PRAZNO 'p'
 
-class Polje: public QPushButton
+class Polje
 {
 public:
     Polje();
-    Polje(QWidget*);
-
 
     char vratiStatus();
 

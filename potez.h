@@ -6,11 +6,13 @@
 class Potez
 {
 public:
-    Potez();
+    Potez(Polje &a_naPolje);
     virtual ~Potez() = 0;
 
+
+
+
 protected:
-    Polje &saPolja;
     Polje &naPolje;
 
 };
@@ -20,6 +22,6 @@ class PrviDeo: public Potez
 public:
 
 
-}
+};
 
 #endif // POTEZ_H

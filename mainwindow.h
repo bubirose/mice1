@@ -14,11 +14,7 @@ class MainWindow : public QMainWindow
 public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();
-    
-private slots:
-    void on_dugme2_clicked();
 
-    void on_dugme1_clicked();
 
 private:
     Ui::MainWindow *ui;

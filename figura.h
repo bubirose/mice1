@@ -21,7 +21,7 @@ public:
 
 private:
     char boja;
-    Polje &pozicija;
+    //Polje &pozicija;
 };
 
 #endif // FIGURA_H
